@@ -1,0 +1,17 @@
+C:\Projects\Assignments\Primes\Primes.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projects\Assignments\Primes\Primes.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projects\Assignments\Primes\Primes.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projects\Assignments\Primes\Primes.Tests\bin\Release\Primes.Tests.dll
+C:\Projects\Assignments\Primes\Primes.Tests\bin\Release\Primes.Tests.pdb
+C:\Projects\Assignments\Primes\Primes.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Projects\Assignments\Primes\Primes.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Projects\Assignments\Primes\Primes.Tests\bin\Release\Primes.exe
+C:\Projects\Assignments\Primes\Primes.Tests\bin\Release\Primes.pdb
+C:\Projects\Assignments\Primes\Primes.Tests\bin\Release\Primes.exe.config
+C:\Projects\Assignments\Primes\Primes.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Projects\Assignments\Primes\Primes.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Projects\Assignments\Primes\Primes.Tests\obj\Release\Primes.Tests.csprojAssemblyReference.cache
+C:\Projects\Assignments\Primes\Primes.Tests\obj\Release\Primes.Tests.csproj.CoreCompileInputs.cache
+C:\Projects\Assignments\Primes\Primes.Tests\obj\Release\Primes.Tests.csproj.CopyComplete
+C:\Projects\Assignments\Primes\Primes.Tests\obj\Release\Primes.Tests.dll
+C:\Projects\Assignments\Primes\Primes.Tests\obj\Release\Primes.Tests.pdb

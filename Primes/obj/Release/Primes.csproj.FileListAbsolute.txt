@@ -1,0 +1,6 @@
+C:\Projects\Assignments\Primes\Primes\bin\Release\Primes.exe.config
+C:\Projects\Assignments\Primes\Primes\bin\Release\Primes.exe
+C:\Projects\Assignments\Primes\Primes\bin\Release\Primes.pdb
+C:\Projects\Assignments\Primes\Primes\obj\Release\Primes.csproj.CoreCompileInputs.cache
+C:\Projects\Assignments\Primes\Primes\obj\Release\Primes.exe
+C:\Projects\Assignments\Primes\Primes\obj\Release\Primes.pdb

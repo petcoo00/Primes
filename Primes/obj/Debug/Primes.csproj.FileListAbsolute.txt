@@ -1,0 +1,7 @@
+C:\Projects\Assignments\Primes\Primes\bin\Debug\Primes.exe.config
+C:\Projects\Assignments\Primes\Primes\bin\Debug\Primes.exe
+C:\Projects\Assignments\Primes\Primes\bin\Debug\Primes.pdb
+C:\Projects\Assignments\Primes\Primes\obj\Debug\Primes.csprojAssemblyReference.cache
+C:\Projects\Assignments\Primes\Primes\obj\Debug\Primes.csproj.CoreCompileInputs.cache
+C:\Projects\Assignments\Primes\Primes\obj\Debug\Primes.exe
+C:\Projects\Assignments\Primes\Primes\obj\Debug\Primes.pdb
